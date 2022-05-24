@@ -1,7 +1,7 @@
 # 一、快速开始
 ## 1、解压
 ```bash
-$ tar -xvf obs_exporter_1.0.0.tar.gz
+$ tar -xvf obs_exporter-1.0.0.linux-amd64.tar.gz
 ```
 ## 2、进入安装目录
 ```bash
