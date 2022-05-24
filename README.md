@@ -149,7 +149,7 @@ vi prometheus.yml
   - job_name: "obs_exporter"
     static_configs:
     - targets:
-      - '19.15.xx.xx:9202'
+      - '19.15.xx.xx:9527'
       labels:
         server: 大数据服务平台
 ```
