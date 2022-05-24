@@ -13,7 +13,7 @@ $ vi .obs.ini
 ```
 ```ini
 [obs]
-port= 9202  #监听的端口
+port= 9527  #监听的端口
 obsEndpoint = http://xxx.xxx.xxx.xxx    #服务地址
 bucketName = xxxxxx #桶名
 AK = xxxxxxxxxxxxx  #Access Key ID，接入键标识
